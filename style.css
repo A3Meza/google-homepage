@@ -57,7 +57,7 @@ input[type="search"] {
 
 footer {
 margin-top: 248px;
-background-color: rgb(161, 159, 159);
+background-color: rgba(165, 37, 37, 0.096);
 margin-left: -6px;
 margin-right: -6px;
 }
@@ -76,4 +76,8 @@ margin-right: -6px;
 .second-section {
 
     text-align: right;
+}
+
+hr {
+    color: gray;
 }
