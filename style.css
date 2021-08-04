@@ -1,9 +1,79 @@
-img {
-    background-position: 100%;
+.centered-image {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 180px;
+    width: 15%;
+    height: auto;
 }
 
-.centered {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+form {
+    text-align: center;
+    margin-top: 30px;
+}
+
+input[type="search"] {
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    border: 1px rgb(170, 167, 167) solid;
+    padding: 5px 5px 5px 25px;
+    
+}
+
+.buttons {
+    margin-top: 20px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(165, 37, 37, 0.096);
+    border-style: none;
+    color: rgb(61, 60, 60);
+}
+
+.centered-text {
+    text-align: center;
+    font-size: small;
+}
+
+.navbar {
+    display: inline;
+    position: relative;
+    float: right;
+    bottom: 400px;
+    font-size: small;
+    margin-right: 15px;
+}
+
+.links {
+    text-decoration: none;
+    padding: 0px 10px 0px 0px;
+    color: black;
+    
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+footer {
+margin-top: 248px;
+background-color: rgb(161, 159, 159);
+margin-left: -6px;
+margin-right: -6px;
+}
+
+.country-footer {
+    text-align: left;
+    padding: 15px 0px 0px 15px;
+}
+
+.company-footer {
+   
+    padding: 10px 0px 20px 15px;
+}
+
+
+.second-section {
+
+    text-align: right;
 }
