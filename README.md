@@ -1,1 +1,3 @@
 This is my first project! I'm so excited to demonstrate my new abilities...
+
+So, I didn't know I could use grids or flexbox because I thought I wouldn't need them, oh boy I was wrong, when I looked at the original Google Webpage (After I made my own) I saw that they used flexbox! lol what a surprise.
